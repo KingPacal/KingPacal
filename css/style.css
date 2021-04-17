@@ -39,7 +39,7 @@ body {
 }
 
 .desire {
-    font-family: "desire";
+    font-family: "desire" !important;
 }
 
 a {
